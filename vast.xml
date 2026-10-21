@@ -10,9 +10,11 @@
           <Linear>
             <Duration>00:00:09</Duration>
             <VideoClicks>
-              <ClickThrough><![CDATA[https://plynw.link]]></ClickThrough>
+              <!-- आपका पूरा और सटीक क्लिक लिंक -->
+              <ClickThrough><![CDATA[https://plynw.link/kaamaapp]]></ClickThrough>
             </VideoClicks>
             <MediaFiles>
+              <!-- आपकी वीडियो का पूरा डायरेक्ट लिंक -->
               <MediaFile delivery="progressive" type="video/mp4" width="1280" height="720">
                 <![CDATA[https://github.io]]>
               </MediaFile>
