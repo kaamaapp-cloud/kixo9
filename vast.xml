@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+  <Ad id="kixo9-video-ad">
+    <InLine>
+      <AdSystem>CustomAdServer</AdSystem>
+      <AdTitle>KIXO9 Evolution Games Promo</AdTitle>
+      <Impression><![CDATA[https://example.com]]></Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:09</Duration>
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://plynw.link]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1280" height="720">
+                <![CDATA[https://github.io]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
