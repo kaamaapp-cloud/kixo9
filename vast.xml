@@ -10,13 +10,13 @@
           <Linear>
             <Duration>00:00:09</Duration>
             <VideoClicks>
-              <!-- आपका पूरा और सटीक क्लिक लिंक -->
-              <ClickThrough><![CDATA[https://plynw.link/kaamaapp]]></ClickThrough>
+              <!-- आपका बिल्कुल सही क्लिक-थ्रू डेस्टिनेशन लिंक -->
+              <ClickThrough><![CDATA[https://plynw.link]]></ClickThrough>
             </VideoClicks>
             <MediaFiles>
-              <!-- आपकी वीडियो का पूरा डायरेक्ट लिंक -->
+              <!-- आपका Bunny.net का सटीक डायरेक्ट MP4 वीडियो लिंक -->
               <MediaFile delivery="progressive" type="video/mp4" width="1280" height="720">
-                <![CDATA[https://github.io]]>
+                <![CDATA[https://mediadelivery.net]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
